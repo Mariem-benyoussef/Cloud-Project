@@ -18,25 +18,25 @@
 
 <br>
 
-## :pushpin: Índice
+## :pushpin: Index
 
-- [Sobre](#sobre)
+- [About](#about)
 - [Layout](#layout)
 - [Deploy](#deploy)
-- [Tecnologias](#tecnologias)
-- [Licença](#licenca)
-- [Autor](#autor)
-- [Agradecimentos](#agradecimento)
+- [Technologies](#technologies)
+- [License](#license)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
 <br>
 
-<a id="sobre"></a>
+<a id="about"></a>
 
-## 💻 Sobre o projeto
+## 💻 About the Project
 
-🚀 A aplicação consiste em um curriculo web, possuindo opção de Dark Mode.
+🚀 The application is a web-based resume with the option of Dark Mode.
 
-💡 Desenvolvido durante o Workshop Start Carreira Dev disponibilizado pela [Kenzie Academy Brasil](https://kenzie.com.br/).
+💡 Developed during the Start Career Dev Workshop
 
 <br>
 
@@ -44,9 +44,9 @@
 
 ## ⚡ Deploy
 
-🎲 Segue abaixo o link do Deploy da Aplicação
+🎲 Below is the link to the deployment of the application.
 
-🔗 [Deploy da Aplicação](https://savio-2-lopes.github.io/CV-website/).
+🔗 [Application Deployment](https://savio-2-lopes.github.io/CV-website/).
 
 <br>
 <a id="layout"></a>
@@ -59,40 +59,41 @@
 
 <br>
 
-<a id="tecnologias"></a>
+<a id="technologies"></a>
 
-## 🛠 Tecnologias
+## 🛠 Technologies
 
-As seguintes ferramentas foram usadas na construção do projeto:
+The following tools were used in the construction of the project:
 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 <br>
 
-<a id="licenca"></a>
+<a id="license"></a>
 
-## :memo: Licença
+## :memo: License
 
-Este projeto está sob a licença do MIT. Veja a [página de licença](https://opensource.org/licenses/MIT) para mais detalhes.
+This project is under the MIT license. See the [license page](https://opensource.org/licenses/MIT) for more details.
 
 <br>
 
-<a id="autor"></a>
+<a id="author"></a>
 
-## 🦸 Autor
+## 🦸 Author
 
 [![Github Badge](https://img.shields.io/badge/-Github-373737?style=flat&logo=Github&logoColor=white)](https://github.com/Mariem-benyoussef)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-8a3ab9?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/savioaugulopes/)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/savio-lopes/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=gmail&logoColor=white)](mailto:savio.dev.lopes@gmail.com)
 
-Feito com ❤️ por Mariem Ben youssef 👋🏽 [Entre em contato!](https://www.linkedin.com/in/savio-lopes/)
+Made with ❤️ by Mariem Ben youssef 👋🏽
 
 <br>
 
-<a id="agradecimento"></a>
+<a id="acknowledgments"></a>
 
-## 💙 Agradecimentos
+## 💙 Acknowledgments
 
-Obrigado [Kenzie Academy brasil](https://kenzie.com.br/) por disponibilizar esse conteúdo sensacional 🚀.
+Thank you.
+
